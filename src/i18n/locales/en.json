@@ -1,0 +1,113 @@
+{
+  "app": {
+    "title": "Discord Rich Presence Manager",
+    "subtitle": "Set up and manage your Discord Rich Presence easily"
+  },
+  "setup": {
+    "steps": {
+      "1": {
+        "title": "Create Discord Application",
+        "description": "To begin, create a new application on the <a href='https://discord.com/developers/applications' target='_blank' rel='noopener noreferrer' class='text-blue-400 hover:text-blue-300 underline'>Discord Developer Portal</a> and use its Client ID here."
+      },
+      "2": {
+        "title": "Configure Rich Presence",
+        "description": "Go to the Rich Presence section and add your images."
+      },
+      "3": {
+        "title": "Start Using",
+        "description": "Configure your presence and click Start to activate it."
+      }
+    }
+  },
+  "config": {
+    "title": "Configuration",
+    "clientId": "Client ID",
+    "activityType": "Activity Type",
+    "state": "State",
+    "details": "Details",
+    "buttons": {
+      "add": "Add buttons",
+      "hide": "Hide buttons",
+      "label": "Button {{number}} - Text",
+      "url": "Button {{number}} - URL"
+    },
+    "images": {
+      "large": {
+        "key": "Large Image Key",
+        "text": "Large Image Text"
+      },
+      "small": {
+        "key": "Small Image Key",
+        "text": "Small Image Text"
+      }
+    }
+  },
+  "preview": {
+    "title": "Preview",
+    "savedConfigs": "Saved Configurations"
+  },
+  "actions": {
+    "save": "Save",
+    "start": "Start",
+    "stop": "Stop"
+  },
+  "settings": {
+    "settings": "Settings",
+    "updates": "Updates",
+    "currentVersion": "Current version:",
+    "latestVersion": "Latest version:",
+    "verification": "Verification in progress...",
+    "check": "Check",
+    "download": "Download",
+    "links":"Links",
+    "makeADonation":"Make a donation",
+    "about": {
+      "title": "About",
+      "text1": "Discord Rich Presence Manager is a free and open-source tool that allows you to easily customize your Discord status.",
+      "text2": "If you like this tool, please share it and contribute to the project on GitHub!",
+      "viewLicense": "View license"
+    }
+  },
+  "configForm": {
+    "clientID": {
+      "clientID" : "Client ID",
+      "discordAppID" : " Discord app ID"
+    },
+    "state": {
+      "state": "State",
+      "playing": " playing..."
+    },
+    "details": {
+      "details": "Details",
+      "multiplayerMode": " Multiplayer mode"
+    }, 
+    "largeImage": {
+      "largeImage": "Large Image (name)",
+      "logo": " Logo"
+    }, 
+    "largeImageText": {
+      "largeImageText": "large Image Text",
+      "myFavoriteGame" : " My favorite game"
+    },
+    "smallImage": {
+      "smallImage": "Small Image (name)",
+      "status" : " Status"
+    },
+    "smallImageText": {
+      "smallImageText": "Small Image Text",
+      "text": " Hello"
+    },
+    "addButtons": "Add Buttons",
+    "hideButtons": "Hide Buttons",
+    "buttons": "Button",
+    "save": "Save",
+    "start": "Start",
+    "stop": "Stop"
+  },
+    "updatePopup": {
+      "updateAvailable": "Update available",
+      "message": "A new version ({{version}}) is available. Would you like to update now?",
+      "later": "Later",
+      "updateNow": "Update now"
+    }
+}

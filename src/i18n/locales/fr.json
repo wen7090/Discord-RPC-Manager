@@ -1,0 +1,113 @@
+{
+  "app": {
+    "title": "Discord Rich Presence Manager",
+    "subtitle": "Configurez et gérez facilement votre Rich Presence Discord"
+  },
+  "setup": {
+    "steps": {
+      "1": {
+        "title": "Créer une Application Discord",
+        "description": "Pour commencer, créez une nouvelle application sur le <a href='https://discord.com/developers/applications' target='_blank' rel='noopener noreferrer' class='text-blue-400 hover:text-blue-300 underline'>Portail Développeurs Discord</a> et utilisez son Client ID ici."
+      },
+      "2": {
+        "title": "Configurer Rich Presence",
+        "description": "Allez dans la section Rich Presence et ajoutez vos images."
+      },
+      "3": {
+        "title": "Commencer à Utiliser",
+        "description": "Configurez votre présence et cliquez sur Démarrer pour l'activer."
+      }
+    }
+  },
+  "config": {
+    "title": "Configuration",
+    "clientId": "Client ID",
+    "state": "État",
+    "details": "Détails",
+    "buttons": {
+      "add": "Ajouter des boutons",
+      "hide": "Masquer les boutons",
+      "label": "Bouton {{number}} - Texte",
+      "url": "Bouton {{number}} - URL"
+    },
+    "images": {
+      "large": {
+        "key": "Clé de la Grande Image",
+        "text": "Texte de la Grande Image"
+      },
+      "small": {
+        "key": "Clé de la Petite Image",
+        "text": "Texte de la Petite Image"
+      }
+    }
+  },
+  "preview": {
+    "title": "Aperçu",
+    "savedConfigs": "Configurations Sauvegardées"
+  },
+  "actions": {
+    "save": "Sauvegarder",
+    "start": "Démarrer",
+    "stop": "Arrêter"
+  },
+  "settings": {
+    "settings": "Paramètres",
+    "updates": "Mises à jour",
+    "currentVersion": "Version actuelle:",
+    "latestVersion": "Dernière version:",
+    "verification": "Vérification en cours...",
+    "check": "Vérifier",
+    "download": "Télécharger",
+    "links":"liens",
+    "makeADonation":"Faire un don",
+    "about": {
+      "title": "À propos",
+      "text1": "Discord Rich Presence Manager est un outil gratuit et open source qui vous permet de personnaliser facilement votre statut Discord.",
+      "text2": "Si vous aimez cet outil, partagez-le et contribuez au projet sur GitHub !",
+      "viewLicense": "Voir la License"
+    }
+  },
+  "configForm": {
+    "clientID": {
+     "clientID": "ID du client",
+     "discordAppID": " ID de l'application Discord"
+    },
+    "state": {
+      "state": "État",
+      "playing": " Joue à..."
+    },
+    "details": {
+      "details": "Détails",
+      "multiplayerMode": " Mode multijoueur"
+
+    },
+    "largeImage": {
+      "largeImage": "Grande image (nom)",
+      "logo": " Logo"
+    },
+    "largeImageText": {
+      "largeImageText" : "Texte de la grande image",
+      "myFavoriteGame" : " Mon jeu préféré"
+    },
+    "smallImage": {
+      "smallImage" : "Petite image (nom)",
+      "status" : " Statut"
+    },
+    "smallImageText": {
+      "smallImageText" : "Texte de la petite image",
+      "text" : " Salut"
+    },
+    "addButtons": "Ajouter des boutons",
+    "hideButtons": "Masquer les boutons",
+    "buttons": "Boutons",
+    "save": "Enregistrer",
+    "start": "Démarrer",
+    "stop": "Arrêter"
+  },
+  "updatePopup": {
+    "updateAvailable": "Mise à jour disponible",
+    "message": "Une nouvelle version ({{version}}) est disponible. Souhaitez-vous mettre à jour maintenant ?",
+    "later": "Plus tard",
+    "updateNow": "Mettre à jour maintenant"
+  }
+}

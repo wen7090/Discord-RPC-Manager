@@ -37,7 +37,7 @@ Available for:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-account/discord-rpc-manager.git
+git clone https://github.com/wen7090/discord-rpc-manager.git
 cd discord-rpc-manager
 ```
 

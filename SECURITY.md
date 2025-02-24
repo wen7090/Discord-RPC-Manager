@@ -29,7 +29,7 @@ Security Contact
 For security concerns or to report a vulnerability, please contact our security team via our Discord ticketing system.
 Recognition
 
-Responsible vulnerability reports may be eligible for public recognition at the discretion of the Discord RPC App security team.
+Responsible vulnerability reports may be eligible for public recognition at the discretion of the Discord RPC Manager security team.
 Legal Considerations
 
 All vulnerability reports must comply with local and international laws. We reserve the right to take legal action against any unauthorized research or reporting activities.

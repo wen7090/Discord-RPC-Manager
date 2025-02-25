@@ -70,8 +70,8 @@ Ce projet est sous licence Creative Commons Attribution-NonCommercial 4.0 Intern
 
 ## Support
 
-- [Discord](https://discord.gg/votre-serveur)
-- [GitHub Issues](https://github.com/votre-compte/discord-rpc-manager/issues)
+- [Discord](https://discord.com/invite/YhTDM8FCrr)
+- [GitHub Issues](https://github.com/wen7090/discord-rpc-manager/issues)
 
 ## Remerciements
 

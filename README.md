@@ -83,7 +83,7 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 ## Support
 
 - [Discord](https://discord.com/invite/YhTDM8FCrr)
-- [GitHub Issues](https://github.com/votre-compte/discord-rpc-manager/issues)
+- [GitHub Issues](https://github.com/wen7090/discord-rpc-manager/issues)
 
 ## Acknowledgements
 
